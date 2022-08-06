@@ -13,6 +13,17 @@ namespace FoodDelivery.Clients
         private double clientMoney;
         public string ClientAddress { get; set; } //endereco do cliente
 
+        public Client(string clientName, double clientMoney, string clientAddress)
+        {
+            ClientName = clientName;
+            ClientMoney = clientMoney;
+            ClientAddress = clientAddress;
+        }
+
+        public Client()
+        {
+
+        }
         public double ClientMoney
         {
             get
