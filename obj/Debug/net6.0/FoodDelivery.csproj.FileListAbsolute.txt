@@ -1,0 +1,15 @@
+D:\Projetos CSHARP\FoodDelivery\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.AssemblyReference.cache
+D:\Projetos CSHARP\FoodDelivery\FoodDelivery\obj\Debug\net6.0\FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos CSHARP\FoodDelivery\FoodDelivery\obj\Debug\net6.0\FoodDelivery.AssemblyInfoInputs.cache
+D:\Projetos CSHARP\FoodDelivery\FoodDelivery\obj\Debug\net6.0\FoodDelivery.AssemblyInfo.cs
+D:\Projetos CSHARP\FoodDelivery\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.CoreCompileInputs.cache
+D:\Projetos CSHARP\FoodDelivery\FoodDelivery\bin\Debug\net6.0\FoodDelivery.exe
+D:\Projetos CSHARP\FoodDelivery\FoodDelivery\bin\Debug\net6.0\FoodDelivery.deps.json
+D:\Projetos CSHARP\FoodDelivery\FoodDelivery\bin\Debug\net6.0\FoodDelivery.runtimeconfig.json
+D:\Projetos CSHARP\FoodDelivery\FoodDelivery\bin\Debug\net6.0\FoodDelivery.dll
+D:\Projetos CSHARP\FoodDelivery\FoodDelivery\bin\Debug\net6.0\FoodDelivery.pdb
+D:\Projetos CSHARP\FoodDelivery\FoodDelivery\obj\Debug\net6.0\FoodDelivery.dll
+D:\Projetos CSHARP\FoodDelivery\FoodDelivery\obj\Debug\net6.0\refint\FoodDelivery.dll
+D:\Projetos CSHARP\FoodDelivery\FoodDelivery\obj\Debug\net6.0\FoodDelivery.pdb
+D:\Projetos CSHARP\FoodDelivery\FoodDelivery\obj\Debug\net6.0\FoodDelivery.genruntimeconfig.cache
+D:\Projetos CSHARP\FoodDelivery\FoodDelivery\obj\Debug\net6.0\ref\FoodDelivery.dll
